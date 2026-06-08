@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*
+!data/.gitkeep
+
+# Model files
+models/*
+!models/.gitkeep
+
+# Large ML files
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
