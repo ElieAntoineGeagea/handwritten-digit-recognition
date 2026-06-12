@@ -32,3 +32,4 @@ Thumbs.db
 
 # VS Code settings
 .vscode/
+!models/cnn_mnist_model.keras
