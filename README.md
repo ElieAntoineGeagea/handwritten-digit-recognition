@@ -5,6 +5,11 @@ This project uses the MNIST dataset to build and evaluate machine learning model
 The goal of this project is to practice computer vision fundamentals, neural networks, convolutional neural networks, model evaluation, and GitHub project organization.
 
 ---
+## Live Demo
+
+The Streamlit web app is available here:
+
+[Open the Handwritten Digit Recognition App](https://handwritten-digit-recognition-9dmhuimzupedrxqm7dtzar.streamlit.app/)
 
 ## Project Overview
 
